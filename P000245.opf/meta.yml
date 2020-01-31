@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །དཔལ་གསང་བ་སྙིང་པོའི་རྒྱ་ཆེར་འགྲེལ། །
+  authors:
+  - མཛད་པ་པོ། སློབ་དཔོན་ཉི་འོད་སེང་གེས།
+  sku: SHE-009
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: An Extensive Commentary on the Secret Essence of Tantra
+    bo: དཔལ་གསང་བ་སྙིང་པོའི་རྒྱ་ཆེར་འགྲེལ།
+  collection:
+    en: Shechen Tantra Series–  Book 9
+    bo: ''
+  author:
+    en: Lopon Nyio Senge
+    bo: སློབ་དཔོན་ཉི་འོད་སེང་གེས།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-009
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-009.epub
+  description:
+    en: ''
+    bo: ''
