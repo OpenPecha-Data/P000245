@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000245
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དཔལ་གསང་བ་སྙིང་པོའི་རྒྱ་ཆེར་འགྲེལ། །
   authors:
   - མཛད་པ་པོ། སློབ་དཔོན་ཉི་འོད་སེང་གེས།
-  sku: SHE-009
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: SHE-009
 web_metadata:
   title:
     en: An Extensive Commentary on the Secret Essence of Tantra
