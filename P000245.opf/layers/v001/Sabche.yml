@@ -2,35 +2,35 @@ id: c1f4b54b83314eb0bd0dd3ffcc869b5e
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-- id: fc3adec22a9a4ecf95d6641fc55219f7
-  span:
-    start: 6438
-    end: 6861
-- id: d21f6853ed3648a3bfe8afe1d86b7856
-  span:
-    start: 7454
-    end: 7496
-- id: fbbfc70681894291846b1aa452ca1d35
-  span:
-    start: 7706
-    end: 7727
-- id: bd2fb0d8cbea4cceaf2df097f4ce7851
-  span:
-    start: 8214
-    end: 8238
-- id: 754907e30d044b5f999cf9a555f9939d
-  span:
-    start: 8502
-    end: 8522
-- id: 251b62229bc548c0957f725474581561
-  span:
-    start: 214521
-    end: 214637
-- id: 084c136c66f441ee941d94356bc5be5b
-  span:
-    start: 214766
-    end: 214797
-- id: ec7369e9716f41009c6b2eb4d9152e93
-  span:
-    start: 214926
-    end: 214943
+  fc3adec22a9a4ecf95d6641fc55219f7:
+    span:
+      start: 6438
+      end: 6861
+  d21f6853ed3648a3bfe8afe1d86b7856:
+    span:
+      start: 7454
+      end: 7496
+  fbbfc70681894291846b1aa452ca1d35:
+    span:
+      start: 7706
+      end: 7727
+  bd2fb0d8cbea4cceaf2df097f4ce7851:
+    span:
+      start: 8214
+      end: 8238
+  754907e30d044b5f999cf9a555f9939d:
+    span:
+      start: 8502
+      end: 8522
+  251b62229bc548c0957f725474581561:
+    span:
+      start: 214521
+      end: 214637
+  084c136c66f441ee941d94356bc5be5b:
+    span:
+      start: 214766
+      end: 214797
+  ec7369e9716f41009c6b2eb4d9152e93:
+    span:
+      start: 214926
+      end: 214943

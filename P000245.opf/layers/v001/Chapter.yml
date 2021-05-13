@@ -2,99 +2,99 @@ id: d6a69db665694af8a38f529406fe4ac0
 annotation_type: Chapter
 revision: '00001'
 annotations:
-- id: 3894fbbdc74b41059bebc0fab3ab0d51
-  span:
-    start: 78
-    end: 90
-- id: 33ad41751ac94d6e8f43aba9c9ed9ec5
-  span:
-    start: 98736
-    end: 98749
-- id: 0b706f9ed5204845a8e6395df9c2145f
-  span:
-    start: 144999
-    end: 145012
-- id: 13e5e38c4a1b413b87a97dfdd7828efb
-  span:
-    start: 180298
-    end: 180310
-- id: 494708e80cdc4792b612242aa044d03d
-  span:
-    start: 211164
-    end: 211175
-- id: 946b3b82e837475cb552c57a043ff681
-  span:
-    start: 230342
-    end: 230355
-- id: 198d3123552348c0924a926b63986a0a
-  span:
-    start: 238901
-    end: 238914
-- id: acbdc0d3400948a3ab9547acbcc8c08a
-  span:
-    start: 245142
-    end: 245156
-- id: f2e41344fa914312ac719c34a4c0f5f0
-  span:
-    start: 247760
-    end: 247772
-- id: 35d61778fd274664a6696b97eee68645
-  span:
-    start: 269281
-    end: 269293
-- id: 465b2c0273234631bbe96d28b26dcaf6
-  span:
-    start: 272012
-    end: 272029
-- id: bfb272a9534447579e5a22457c3ed081
-  span:
-    start: 312040
-    end: 312057
-- id: ccbed405eedd4fcf9f958e4abf25638f
-  span:
-    start: 329360
-    end: 329377
-- id: dc5e56f24c9244a4a739f09352948c62
-  span:
-    start: 349364
-    end: 349380
-- id: a20c5e26e2ee4eada89471bd9357a951
-  span:
-    start: 355879
-    end: 355894
-- id: 0b7a32cb215e4dd29e645cc52106d298
-  span:
-    start: 382732
-    end: 382745
-- id: 6777738b6e864cd0a7564b3e216a9492
-  span:
-    start: 390411
-    end: 390428
-- id: f12517f2fbce4b829125fcdae0f65b1b
-  span:
-    start: 393791
-    end: 393809
-- id: ed7e412af21943a7880f5c5d6aa007b4
-  span:
-    start: 397441
-    end: 397457
-- id: 547937533cf947e2a7d47f573a267aa5
-  span:
-    start: 432818
-    end: 432832
-- id: 82f9a230c728444da2e7197f4cb582e7
-  span:
-    start: 435343
-    end: 435360
-- id: c0aac308176a441399256cdfebd82703
-  span:
-    start: 438197
-    end: 438219
-- id: 47821a1fccc3483db91dbb384c177176
-  span:
-    start: 441415
-    end: 441423
-- id: 4ee65edfa037428f88ef4d03456e4724
-  span:
-    start: 442205
-    end: 442221
+  3894fbbdc74b41059bebc0fab3ab0d51:
+    span:
+      start: 78
+      end: 90
+  33ad41751ac94d6e8f43aba9c9ed9ec5:
+    span:
+      start: 98736
+      end: 98749
+  0b706f9ed5204845a8e6395df9c2145f:
+    span:
+      start: 144999
+      end: 145012
+  13e5e38c4a1b413b87a97dfdd7828efb:
+    span:
+      start: 180298
+      end: 180310
+  494708e80cdc4792b612242aa044d03d:
+    span:
+      start: 211164
+      end: 211175
+  946b3b82e837475cb552c57a043ff681:
+    span:
+      start: 230342
+      end: 230355
+  198d3123552348c0924a926b63986a0a:
+    span:
+      start: 238901
+      end: 238914
+  acbdc0d3400948a3ab9547acbcc8c08a:
+    span:
+      start: 245142
+      end: 245156
+  f2e41344fa914312ac719c34a4c0f5f0:
+    span:
+      start: 247760
+      end: 247772
+  35d61778fd274664a6696b97eee68645:
+    span:
+      start: 269281
+      end: 269293
+  465b2c0273234631bbe96d28b26dcaf6:
+    span:
+      start: 272012
+      end: 272029
+  bfb272a9534447579e5a22457c3ed081:
+    span:
+      start: 312040
+      end: 312057
+  ccbed405eedd4fcf9f958e4abf25638f:
+    span:
+      start: 329360
+      end: 329377
+  dc5e56f24c9244a4a739f09352948c62:
+    span:
+      start: 349364
+      end: 349380
+  a20c5e26e2ee4eada89471bd9357a951:
+    span:
+      start: 355879
+      end: 355894
+  0b7a32cb215e4dd29e645cc52106d298:
+    span:
+      start: 382732
+      end: 382745
+  6777738b6e864cd0a7564b3e216a9492:
+    span:
+      start: 390411
+      end: 390428
+  f12517f2fbce4b829125fcdae0f65b1b:
+    span:
+      start: 393791
+      end: 393809
+  ed7e412af21943a7880f5c5d6aa007b4:
+    span:
+      start: 397441
+      end: 397457
+  547937533cf947e2a7d47f573a267aa5:
+    span:
+      start: 432818
+      end: 432832
+  82f9a230c728444da2e7197f4cb582e7:
+    span:
+      start: 435343
+      end: 435360
+  c0aac308176a441399256cdfebd82703:
+    span:
+      start: 438197
+      end: 438219
+  47821a1fccc3483db91dbb384c177176:
+    span:
+      start: 441415
+      end: 441423
+  4ee65edfa037428f88ef4d03456e4724:
+    span:
+      start: 442205
+      end: 442221
